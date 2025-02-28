@@ -28,6 +28,11 @@ deforestation dynamics"
      - Produção de Soja (R$) :heavy_check_mark:
      - Despesa Orçamentária (R$) :heavy_check_mark:
      - Partido Político do Governador :heavy_check_mark:
+    
+### 2.Processamento dos Dados:
+   - * Dados Processados:
+       
+   - * Dados Não Processados: 
 
 ### 2. *Pré-processamento de Dados*
    - *Transformação de Variáveis Categóricas*:
