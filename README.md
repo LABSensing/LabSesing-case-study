@@ -31,14 +31,22 @@ deforestation dynamics"
     
 ### 2.Processamento dos Dados:
    - * Dados Processados:
-       - Partido Político :heavy_check_mark:  
+       - Partido Político do Governador :heavy_check_mark:  
        - Desmatamento :heavy_check_mark:
        - Área de Culturas Temporárias :heavy_check_mark:
    - * Dados Não Processados:
        - População ❌
        - Despesas Orçamentárias ❌
        - Produção de Milho ❌
-       - Área colhida ou plantada por hectares ❌ 
+       - Área colhida ou plantada por hectares ❌
+       - Focos de Incêndio ❌ 
+       - PIB (R$) ❌
+       - Produção de Soja (R$) ❌
+       - Área de Culturas Permanentes (hectares) ❌ 
+       - Extensão de Unidades de Conservação (hectares) ❌
+       - Fluxo de Crédito Rural (R$)❌
+       - Rebanho Bovino (cabeças)❌
+       - PIB Agrícola Estadual (R$)❌ 
 
 ### 2. *Pré-processamento de Dados*
    - *Transformação de Variáveis Categóricas*:
