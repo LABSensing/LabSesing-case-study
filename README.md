@@ -34,6 +34,7 @@ deforestation dynamics"
        - Partido Político do Governador :heavy_check_mark:  
        - Desmatamento :heavy_check_mark:
        - Área de Culturas Temporárias :heavy_check_mark:
+       - Produção de Milho (R$) :heavy_check_mark:
    - * Dados Não Processados:
        - População ❌
        - Despesas Orçamentárias ❌
