@@ -35,14 +35,13 @@ deforestation dynamics"
        - Desmatamento :heavy_check_mark:
        - Área de Culturas Temporárias :heavy_check_mark:
        - Produção de Milho (R$) :heavy_check_mark:
+       - Produção de Soja(R$)  :heavy_check_mark:
+       - Despesas Orçamentárias :heavy_check_mark:
+       - Área plantada ou colhida (hectares) :heavy_check_mark:
    - * Dados Não Processados:
        - População ❌
-       - Despesas Orçamentárias ❌
-       - Produção de Milho ❌
-       - Área colhida ou plantada por hectares ❌
        - Focos de Incêndio ❌ 
        - PIB (R$) ❌
-       - Produção de Soja (R$) ❌
        - Área de Culturas Permanentes (hectares) ❌ 
        - Extensão de Unidades de Conservação (hectares) ❌
        - Fluxo de Crédito Rural (R$)❌
