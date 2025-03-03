@@ -38,11 +38,11 @@ deforestation dynamics"
        - Produção de Soja(R$)  :heavy_check_mark:
        - Despesas Orçamentárias :heavy_check_mark:
        - Área plantada ou colhida (hectares) :heavy_check_mark:
+       - Focos de Incêndio :heavy_check_mark:
+       - Área de Culturas Permanentes (hectares) :heavy_check_mark:
    - * Dados Não Processados:
        - População ❌
-       - Focos de Incêndio ❌ 
        - PIB (R$) ❌
-       - Área de Culturas Permanentes (hectares) ❌ 
        - Extensão de Unidades de Conservação (hectares) ❌
        - Fluxo de Crédito Rural (R$)❌
        - Rebanho Bovino (cabeças)❌
