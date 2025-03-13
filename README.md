@@ -53,6 +53,8 @@ deforestation dynamics"
      - Converta a variável "Partido Político" em formato binário (0 ou 1) usando o método get_dummies do Pandas.
    - *Normalização*:
      - Normalize todas as variáveis para o intervalo de 0 a 1 usando o MinMaxScaler do scikit-learn.
+   - *Normalização por área*
+     - Ajustar os valores de cada registro de acordo com a extensão territorial de seu respectivo estado
    - *Divisão dos Dados*:
      - Divida o conjunto de dados em 80% para treinamento e 20% para teste.
      - Utilize validação cruzada (k-fold) para garantir a robustez dos modelos.
@@ -60,8 +62,6 @@ deforestation dynamics"
 ### 3. *Análise Exploratória de Dados*
    - *Gráficos Temporais*:
      - Crie gráficos de linha para identificar padrões temporais nas variáveis.
-   - *Normalização por área*
-     - Ajustar os valores de cada registro de acordo com a extensão territorial de seu respectivo estado.
    - *Matriz de Correlação*:
      - Analise a correlação entre as variáveis para identificar relações significativas.
 
