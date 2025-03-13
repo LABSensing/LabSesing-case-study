@@ -57,7 +57,15 @@ deforestation dynamics"
      - Divida o conjunto de dados em 80% para treinamento e 20% para teste.
      - Utilize validação cruzada (k-fold) para garantir a robustez dos modelos.
 
-### 3. *Modelagem*
+### 3. *Análise Exploratória de Dados*
+   - *Gráficos Temporais*:
+     - Crie gráficos de linha para identificar padrões temporais nas variáveis.
+   - *Normalização por área*
+     - Ajustar os valores de cada registro de acordo com a extensão territorial de seu respectivo estado.
+   - *Matriz de Correlação*:
+     - Analise a correlação entre as variáveis para identificar relações significativas.
+
+### 4. *Modelagem*
    - *Algoritmos de Machine Learning*:
      - *Árvores de Decisão*
      - *Random Forest*
@@ -68,12 +76,6 @@ deforestation dynamics"
      - Utilize métricas como coeficiente de determinação (R²), erro quadrático médio (MSE) e erro absoluto médio (MAE) para avaliar o desempenho dos modelos.
    - *Importância das Variáveis*:
      - Utilize SHAP (SHapley Additive exPlanations) para interpretar a importância das variáveis nos modelos.
-
-### 4. *Análise Exploratória de Dados*
-   - *Gráficos Temporais*:
-     - Crie gráficos de linha para identificar padrões temporais nas variáveis.
-   - *Matriz de Correlação*:
-     - Analise a correlação entre as variáveis para identificar relações significativas.
 
 ### 5. *Implementação*
    - *Ferramentas*:
