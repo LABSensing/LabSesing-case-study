@@ -40,6 +40,7 @@ deforestation dynamics"
        - Área plantada ou colhida (hectares) :heavy_check_mark:
        - Focos de Incêndio :heavy_check_mark:
        - Área de Culturas Permanentes (hectares) :heavy_check_mark:
+       - Extra: Dados Territoriais de todos os estados :heavy_check_mark: :heavy_check_mark::heavy_check_mark:
    - * Dados Não Processados:
        - População ❌
        - PIB (R$) ❌
@@ -48,16 +49,11 @@ deforestation dynamics"
        - Rebanho Bovino (cabeças)❌
        - PIB Agrícola Estadual (R$)❌ 
 
-### 2. *Pré-processamento de Dados*
-   - *Transformação de Variáveis Categóricas*:
-     - Converta a variável "Partido Político" em formato binário (0 ou 1) usando o método get_dummies do Pandas.
-   - *Normalização*:
-     - Normalize todas as variáveis para o intervalo de 0 a 1 usando o MinMaxScaler do scikit-learn.
-   - *Normalização por área*
-     - Ajustar os valores de cada registro de acordo com a extensão territorial de seu respectivo estado
-   - *Divisão dos Dados*:
-     - Divida o conjunto de dados em 80% para treinamento e 20% para teste.
-     - Utilize validação cruzada (k-fold) para garantir a robustez dos modelos.
+### 2. ❌  *Análise Estatística dos Dados* ❌ 
+   - *Juntar os Datasets Desmatamento + (Milho/ T.km**2) *: ❌ 
+   - *Juntar os Datasets Desmatamento + (Soja/ T.km**2): ❌ 
+   - *Juntar os Datasets Desmatamento + (Cabeça(Gado)/ T.km**2): ❌ 
+   - *Juntar os Datasets Desmatamento + (Cabeça(Gado)/ T.km**2  + (Soja/ T.km**2) + (Milho/ T.km**2):❌ 
 
 ### 3. *Análise Exploratória de Dados*
    - *Gráficos Temporais*:
